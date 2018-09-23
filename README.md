@@ -1,4 +1,5 @@
-# Avasia:King of Nacastrum
+### Avasia: King of Nacastrum
+---
 
 # First game I made to teach myself Python 3.
 
