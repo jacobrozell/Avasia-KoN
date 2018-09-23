@@ -1,6 +1,6 @@
 ### Avasia: King of Nacastrum
 ---
 
-# First game I made to teach myself Python 3.
+# Avasia: King of Nacastrum is a simple text-based game I made to teach myself how to code.
 
-# Playable with link above, however recommended you pull it.
+# There is a playable with link in the description, however I recommended you pull/clone it.
